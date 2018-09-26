@@ -1,0 +1,14 @@
+{
+  "expo": {
+   "name": "Tic Tac Toe",
+   "version": "1.0.0",
+   "slug": "Simple-game",
+   "sdkVersion": "27.0.0",
+   "ios": {
+     "bundleIdentifier": "com.salah.simple"
+   },
+   "android": {
+     "package": "com.salah.simple"
+   }
+  }
+}
