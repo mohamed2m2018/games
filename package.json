@@ -25,5 +25,21 @@
     "react-native": "~0.55.2",
     "react-native-elements": "^0.19.1",
     "react-router-native": "^4.3.0"
+  },
+  "expo":{
+
+    "name": "Sample App",
+		"sdkVersion": "25.0.0",
+		"description": "Basic app",
+		"version": "1.0.1",
+		"orientation": "portrait",
+		"ios": {
+			"bundleIdentifier": "com.salah.tic"
+		},
+		"android": {
+			"package": "com.salah.tic"
+}
+
   }
+
 }
